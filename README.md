@@ -1,1 +1,1 @@
-# PowerBI-Customer-Churn-and-Retention-Analysis-Projects-
+# PowerBI Customer Churn and Retention Analysis Projects
